@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println(h(1.1));
         double rp, rk, z;
         int n;
         System.out.print("rp = ");rp = scan.nextDouble();
